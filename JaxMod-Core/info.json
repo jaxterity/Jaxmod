@@ -1,0 +1,9 @@
+{
+  "name": "JaxMod",
+  "version": "0.1",
+  "title": "JaxMod-Core",
+  "author": "Jaxterity",
+  "homepage": "http://www.factorioforums.com/forum/",
+  "dependencies": ["base >= 0.11.0"],
+  "description": "This mod is unfinished."
+}
